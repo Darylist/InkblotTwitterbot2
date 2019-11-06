@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConsumerKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70XbaKhNrtVoEo5MI5EKPRCUh</Value>
+    </Setting>
+    <Setting Name="ConsumerSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H43l5PZNOdtV4HxsW3NTZp93OQy2EjcfMurkrbr0cpf5O8n9db</Value>
+    </Setting>
+    <Setting Name="OAuthToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1187014332518789120-gw0vni9MTIYEWwEsxJOe801YQvpCdY</Value>
+    </Setting>
+    <Setting Name="OAuthTokenSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JDDiwywchjqdzglcHz2HDHbRsH7s9VQZkpRECzOrMepWP</Value>
+    </Setting>
+    <Setting Name="ImageDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Users\\Daryl\\Pictures\\inkblotpics\\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
